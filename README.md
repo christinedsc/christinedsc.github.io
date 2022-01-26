@@ -1,43 +1,43 @@
-## Work Experience
+# Work Experience
 
-```
-**Casual Academic**
-_University of New South Wales_ 
+### Casual Academic at University of New South Wales
+_Feb 2022 - Present_
+- Information Systems and Technology Management faculty at UNSW Business School
 
+### Business Data Analayst at fishburners
+_Oct 2020 - Present_
+- Extracted and analysed 22,000+ rows of data and implemented data modelling techniques to determine customer lifetime value and customer acquisition cost
+- Designed product database and created an automatic ordering template to assist during customer calls
+- Responsible for developing and implementing company transition from in-house fulfilment to third-party fulfilment for both Australia and United States
 
-```
-You can use the [editor on GitHub](https://github.com/christinedsc/christinedsc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Assistant Business Analyst at Progurt
+_Sep 2020 - Oct 2020_
+- Developed a marketing dashboard to determine lead conversion attribution across 6 social media assets
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Awards and Certifications
 
-### Markdown
+### Masters of Commerce specialising in Business Analytics and Marketing Analytics
+**University of New South Wales**
+_Jan 2020 - Dec 2021_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Distinction Average: 84.1 WAM
+- Notable Projects:
 
-```markdown
-Syntax highlighted code block
+1. Prospect Selection using Regression Modelling in R
+2. Predicting Customer Churn using Regression Modelling in R
+3. Identifying Instagram Image Attributes using Regression Modelling in Python
+4. Retail Data ETL and Analysis using SAS Enterprise Guide, SQL, and OpenRefine
+5. Regression Modelling using SAS Visual Analytics
+6. Platute Chatbot using IBM Watson Assistant
 
-# Header 1
-## Header 2
-### Header 3
+# Other Professional Experiences and Awards
 
-- Bulleted
-- List
+### Elected International Student Officer at Postgraduate Council
+_Nov 2020 - Oct 2021
 
-1. Numbered
-2. List
+### Sparro Marketing Challenge Winner
+_2020
 
-**Bold** and _Italic_ and `Code` text
+### Regional Finalist at Hult Global Case Challenge in San Francisco
+_2012
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christinedsc/christinedsc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
