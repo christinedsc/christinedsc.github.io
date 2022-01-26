@@ -33,11 +33,11 @@ _Jan 2020 - Dec 2021_
 # Other Professional Experiences and Awards
 
 ### Elected International Student Officer at Postgraduate Council
-_Nov 2020 - Oct 2021
+_Nov 2020 - Oct 2021_
 
 ### Sparro Marketing Challenge Winner
-_2020
+_2020_
 
 ### Regional Finalist at Hult Global Case Challenge in San Francisco
-_2012
+_2012_
 
